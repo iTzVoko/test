@@ -1,2 +1,2 @@
 # test
-A repository made for test `git` &amp; github.
+A simple repository made for testing `git` &amp; github tools.
